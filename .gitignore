@@ -1,0 +1,8 @@
+.vs
+/x86
+/x64
+/MapViewer
+/Resource.h
+*.vcxproj.filters
+*.vcxproj.user
+*.aps
